@@ -1,4 +1,0 @@
-adamgaspar
-Bv123456
-
-mongodb+srv://adamgaspar:Bv123456@whatsapp-webhook-cluste.ncsxoid.mongodb.net/?retryWrites=true&w=majority&appName=whatsapp-webhook-cluster

@@ -1,0 +1,12 @@
+node_modules/
+.env
+data/
+whatsapp_messages.db
+public/uploads/*
+!public/uploads/.gitkeep
+public/sent_media/*
+!public/sent_media/.gitkeep
+*.log
+.DS_Store
+.idea/
+.git/
